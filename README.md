@@ -11,9 +11,8 @@ edit boxes, manage classes, save YOLO-format labels — without dragging an Open
 second GUI toolkit, a browser, or a Python runtime along for the ride. One C file,
 GTK4, and nothing else.
 
-<!-- Add a screenshot once you have one:
 ![Imagnoter](screenshot.png)
--->
+
 
 ## Features
 
